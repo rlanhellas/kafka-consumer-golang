@@ -1,2 +1,3 @@
 # kafka-consumer-golang
-Exemplo Kafka Consumer usando Golang
+Este projeto usa a lib `confluent-kafka-go` para consumir mensagens do kafka.
+Para executar o projeto, execute `go run main.go`.
